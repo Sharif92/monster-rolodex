@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/monsters-rolodex/static/css/main.a1f0b1f3.chunk.css"
   },
   {
-    "revision": "39d9262c36bc7931ce5ac1ce0f1e6cc2",
+    "revision": "edeea6d2e361fdd30a19f75bd96ef665",
     "url": "/monsters-rolodex/index.html"
   }
 ];
