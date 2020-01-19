@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/monsters-rolodex/precache-manifest.7badae986d9be8040abeae4d93375c9d.js"
+  "/-monsters-rolodex/precache-manifest.85646388f1689669b97c8c5f1e71db4d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/monsters-rolodex/index.html", {
+workbox.routing.registerNavigationRoute("/-monsters-rolodex/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
